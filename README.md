@@ -3,48 +3,41 @@
 ## 👋 Introduction
 
 Hi there! I'm Ash Kamel, an engineering leader at GitHub. I've spent over a decade scaling complex systems and building high-performing engineering teams across companies like Zip Co, SoulCycle, and various startups. I created this document to give you insight into how I operate, what you can expect from me, and what I believe makes teams successful.
+
 This is a living document that will evolve as I learn and grow. Please don't hesitate to ask questions or provide feedback!
 
 ## 🧭 My Leadership Philosophy
 
 ### No Surprises
+
 One of my core principles is avoiding surprises—both for you and for me. I believe in transparent, proactive communication that allows us to navigate challenges together before they become problems.
 
 ### First Principles Thinking
+
 I value solving problems from first principles rather than relying solely on established patterns. This means questioning assumptions and being open to innovative approaches when the situation calls for it.
 
 ### Balanced Growth
+
 I believe the best teams balance immediate delivery with long-term growth. Technical excellence matters, but it should serve our users and business goals rather than being pursued for its own sake.
 
 ### Iteration Over Perfection
+
 I believe in shipping early and learning quickly. Perfect is the enemy of good, and we often learn more from real feedback than from theoretical discussions. I encourage incremental changes that reduce risk and accelerate our collective learning.
 
 ## 💼 How I Work
 
-### Communication Style
-- I tend to be direct but considerate
-- I prefer written communication for complex topics that require thought
-- For urgent matters, don't hesitate to ping me directly
-- I try to respond to messages within 4 hours during working hours
+### Communication & Decision Making
 
-### Decision Making
-From my experience launching new markets at Quadpay and driving cross-functional projects at Zip, I've developed a framework for decision-making that considers:
-
-- Impact (business, user, technical)
-- Urgency
-- Recoverability
-- Who needs to be involved
-
-When time permits, I aim for consensus; when urgency dictates, I'll make decisive calls while communicating my reasoning.
+- I communicate directly but thoughtfully, preferring written format for complex topics
+- For urgent matters, please reach out directly (I aim to respond within 4 hours during work hours)
+- My decision-making weighs impact, urgency, recoverability, and stakeholder input
+- When time permits, I seek consensus; when needed, I'll make the call and explain my reasoning
 
 ### Meeting Philosophy
-I believe meetings should have clear purposes:
 
-- Decision-making
-- Collaborative problem-solving
-- Alignment and information sharing
-
-I'm not a fan of status update meetings that could be handled asynchronously (outside of team bonding/demo type gatherings). Every meeting should have an agenda and end with clear next steps.
+- I value focused meetings with clear agendas and outcomes
+- Every meeting should serve a specific purpose: decisions, problem-solving, or alignment
+- Status updates belong in documentation, not meetings (team demos and bonding are exceptions)
 
 ## 🤝 What You Can Expect From Me
 
@@ -108,7 +101,7 @@ I'm not a fan of status update meetings that could be handled asynchronously (ou
 ### How to Give Me Feedback
 
 - Be direct and specific
-- Focus on impact rather than intent (intent is still important just dont lose sight of the goal)
+- Focus on impact rather than intent (intent is still important just don't lose sight of the goal)
 - Suggest alternatives when possible
 - Don't wait for a formal review—immediate feedback is valuable
 
@@ -116,7 +109,7 @@ I'm not a fan of status update meetings that could be handled asynchronously (ou
 
 ### Structure
 
-- We'll meet weekly/bi-weekly for 30 minutes
+- We'll meet weekly or bi-weekly for 30 minutes depending on your preference
 - The time is primarily yours—come with topics you want to discuss
 - I'll occasionally have specific topics to cover, but your agenda takes priority
 
@@ -136,7 +129,12 @@ I'm not a fan of status update meetings that could be handled asynchronously (ou
 - Let me know if the format isn't working for you
 
 ## 🏄‍♂️ Personal Notes
-Outside of work, I'm passionate about soccer—I spent many years as a referee and coach for the U.S. Soccer Federation. This experience taught me a lot about quick decision-making, maintaining composure under pressure, and the importance of fair play.  There is often an anology you might hear me repeat about how when managing a match you often perform like an orchestra conductor where keeping a finger on the pulse of the game and all the inputs come together in a complex web of decisions and non decisons that need to be made. The goal is to put on the best performance possible where the players (team) get to shine and the audiance (customers) recieved a delightful experience.
+
+I live just outside of NYC with my spouse and two kids. I love to travel (though not as much these days), hike in the Hudson Valley, and ski/snowboard when I can. My reading lately focuses on people leadership and entrepreneurship, though you'll still catch me diving into a great white paper or engineering blog post.
+
+Outside of work, I'm passionate about soccer—I spent many years as a match official and referee coach for the U.S. Soccer Federation. This experience taught me a lot about quick decision-making, maintaining composure under pressure, and the importance of fair play.
+
+You might hear me use this analogy: managing a soccer match is like being an orchestra conductor. You keep a finger on the pulse of the game while processing countless inputs that form a complex web of decisions and non-decisions. The goal is to put on the best performance possible where the players (team) get to shine and the audience (customers) enjoys a delightful experience.
 
 I'm energized by solving complex problems, mentoring others, and seeing teams deliver impactful work that propels themselves and their organizations forward.
 
