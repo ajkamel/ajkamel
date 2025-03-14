@@ -14,7 +14,7 @@ One of my core principles is avoiding surprises—both for you and for me. I bel
 
 ### First Principles Thinking
 
-I value solving problems from first principles rather than relying solely on established patterns. This means questioning assumptions and being open to innovative approaches when the situation calls for it.
+I value solving problems from first principles rather than relying solely on established patterns. This means questioning assumptions and being open to innovative approaches when the situation calls for it. I also believe that there is a time and place for this type of thinking, and being able to collaborate effectively and respecting our peers is as equally important.
 
 ### Balanced Growth
 
@@ -83,7 +83,7 @@ I believe in shipping early and learning quickly. Perfect is the enemy of good, 
 - Collaborate effectively with peers
 - Provide constructive feedback when asked
 - Help maintain our team culture
-- Consider the needs of the broader organization
+- Consider the needs of the broader organization and committing to our working agreements
 
 ## 🧩 My Quirks & Working Style
 
