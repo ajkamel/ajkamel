@@ -4,7 +4,7 @@ Engineering leader based just outside NYC. I've spent 12+ years building teams a
 
 ## What I'm up to
 
-- 🔧 Leading platform engineering at GitHub — building foundations that power collaboration for millions of developers
+- 🔧 Leading an engineering team at 1Password focused on expanding 1Password usage to the larger developer community and making it more accessible for AI agents.
 - 🤖 Interested in how AI reshapes developer workflows and tooling
 - 📚 Currently reading about engineering leadership, organizational design, and the occasional deep-dive white paper
 
